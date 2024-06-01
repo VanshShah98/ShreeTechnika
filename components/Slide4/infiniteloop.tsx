@@ -1,13 +1,13 @@
 import Image from 'next/image';
 
 const LOGOS = [
-  { src: "/LOGO/Abbot.png", alt: "Abbot" },
-  { src: "/LOGO/Axtel.png", alt: "Axtel" },
-  { src: "/LOGO/GEA.png", alt: "GEA" },
-  { src: "/LOGO/Borosil.png", alt: "Borosil" },
-  { src: "/LOGO/inductel.png", alt: "inductel" },
-  { src: "/LOGO/Evonik.png", alt: "Evonik" },
-  { src: "/LOGO/Tetra_Pak.png", alt: "Tetra_Pak" },
+  { src: "/LOGO/Abbot.svg", alt: "Abbot" },
+  { src: "/LOGO/Axtel.svg", alt: "Axtel" },
+  { src: "/LOGO/GEA.svg", alt: "GEA" },
+  { src: "/LOGO/Borosil.svg", alt: "Borosil" },
+  { src: "/LOGO/inductel.svg", alt: "inductel" },
+  { src: "/LOGO/Evonik.svg", alt: "Evonik" },
+  { src: "/LOGO/Tetra_Pak.svg", alt: "Tetra_Pak" },
 ];
 
 // Duplicate the logos multiple times to extend the loop
