@@ -33,8 +33,7 @@ export default function ContactForm() {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
-      alert('Thank you for contacting Shree Technika. We will surely call you back.');
+      alert("Thank you for contacting Shree Technika. We will surely call you back");
 
       // Reset the form fields after successful submission
       setFormData({

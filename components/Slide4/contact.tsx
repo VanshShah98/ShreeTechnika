@@ -5,7 +5,7 @@ import { Typography } from '@mui/material';
 const Contact: React.FC = () => {
   return (
     <>
-      <section id='Contact'> 
+      <section> 
         <Typography className='flex flex-col text-blue-950 text-3xl lg:text-5xl font-medium font-serif pl-8 lg:pl-10 pt-14 pt-16 pb-8 '>Esteemed Customers</Typography>
           <div className=''>
             <InfiniteSlider/>
