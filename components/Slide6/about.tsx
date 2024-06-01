@@ -71,7 +71,7 @@ export default function About() {
                                         <div className="grid gap-1">
                                             <h3 className="text-xl font-bold">Customer Focus</h3>
                                             <p className="text-gray-500 dark:text-gray-400">
-                                                Our clients' success is our top priority. We strive to provide exceptional service and tailored
+                                                Our clients&#39; success is our top priority. We strive to provide exceptional service and tailored
                                                 solutions to meet their unique needs.
                                             </p>
                                         </div>
