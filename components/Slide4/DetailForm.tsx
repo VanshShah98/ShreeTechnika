@@ -55,7 +55,7 @@ export default function ContactForm() {
           Get in Touch
         </Typography>
         <Typography variant="body1" className="max-w-xl mx-auto text-gray-500 dark:text-gray-400 md:text-xl">
-          Have a question or want to work together? Fill out the form below and we'll get back to you as soon as possible.
+          Have a question or want to work together? Fill out the form below and we&#39;ll get back to you as soon as possible.
         </Typography>
       </div>
       <Grid container spacing={8} className="mt-12">
