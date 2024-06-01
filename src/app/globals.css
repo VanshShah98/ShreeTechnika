@@ -1,6 +1,24 @@
-@tailwind base;
-@tailwind components;
+@import url('https://fonts.googleapis.com/css2?family=Taviraj&display=swap');
+@tailwind base; 
+@tailwind components; 
 @tailwind utilities;
+
+/* styles.css */
+@keyframes infinite-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-infinite-slider {
+  animation: infinite-scroll 20s linear infinite;
+}
+.animate-infinite-Cardslider {
+  animation: infinite-scroll 60s linear infinite;
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;
