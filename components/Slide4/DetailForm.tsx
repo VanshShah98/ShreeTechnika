@@ -125,7 +125,7 @@ export default function ContactForm() {
                 <div className="flex items-center space-x-2">
                   <LocationOn className="text-gray-500 dark:text-gray-400" />
                   <Typography variant="body1" className="text-gray-500 dark:text-gray-400">
-                  SHREE TECHNIKA, RS No. 215, Block No. 85, ZIN, Opp. APMC, At. Jhagadia, Dist.    Bharuch, Gujarat,
+                  SHREE TECHNIKA, RS No. 215, Block No. 85, ZIN, Opp. APMC, At. Jhagadia Bharuch, Gujarat,
                   </Typography>
                 </div>
 
