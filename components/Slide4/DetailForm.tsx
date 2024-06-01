@@ -42,7 +42,7 @@ export default function ContactForm() {
         requirement: '',
       });
     } catch (error) {
-      console.error('Error submitting form:', error);
+      console.error("Error submitting form:", error);
     } finally {
       setIsSending(false);
     }
