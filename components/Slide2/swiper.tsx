@@ -4,11 +4,8 @@ import BuildIcon from '@mui/icons-material/Build';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import HandymanIcon from '@mui/icons-material/Handyman';
 import TaskOutlinedIcon from '@mui/icons-material/TaskOutlined';
-import FactoryIcon from '@mui/icons-material/Factory';
-import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
 import SupervisorAccountOutlinedIcon from '@mui/icons-material/SupervisorAccountOutlined';
 import EngineeringIcon from '@mui/icons-material/Engineering';
-import InventoryIcon from '@mui/icons-material/Inventory';
 import HourglassTopOutlinedIcon from '@mui/icons-material/HourglassTopOutlined';
 
 interface FeatureCardProps {

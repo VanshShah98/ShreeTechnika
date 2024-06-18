@@ -79,7 +79,7 @@ export default function About() {
                                 </ul>
                             </div>
                             <img
-                                src="/Object_19.svg"
+                                src="/MV.svg"
                                 alt="Mission and Values"
                                 className="mx-auto max-w-full aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                             />
