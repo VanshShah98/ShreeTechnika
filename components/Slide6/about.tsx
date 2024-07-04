@@ -11,12 +11,12 @@ export default function About() {
                         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
                             <div className="flex flex-col justify-center space-y-4">
                                 <div className="space-y-2">
-                                    <h1 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl">
+                                    <h6 className="text-xl font-bold tracking-tighter sm:text-2xl md:text-3xl lg:text-lg xl:text-3xl">
                                         About Shree Technika
-                                    </h1>
+                                    </h6>
                                     <p className="text-gray-500 sm:text-base md:text-lg lg:text-xl dark:text-gray-400">
 
-                                    Shree Technika, established in January 2020, is a leading ISO 9001:2015 certified manufacturer of stainless steel hygiene process equipment, including SS Storage Tanks, Process Tanks, and Bag Filters. Located in Jhagadia, Gujarat, our state-of-the-art facility spans 7,000 square meters. We serve the dairy, pharma, food, beverages, and chemical industries with precision-engineered products and a commitment to quality and customer satisfaction.
+                                    Shree Technika, established in January 2020, is a leading ISO 9001:2015 certified manufacturer of stainless steel hygiene process equipment, including SS Storage Tanks, Process Tanks, and Bag Filters. Located in Jhagadia, Gujarat, our state-of-the-art facility spans 7,000 square meters. We serve the dairy, pharma, food, breweries, and chemical industries with precision-engineered products and a commitment to quality and customer satisfaction.
                                     </p>
                                 </div>
                             </div>
@@ -32,7 +32,7 @@ export default function About() {
                     <div className="container px-4 md:px-6">
                         <div className="flex flex-col items-center justify-center space-y-4 text-center">
                             <div className="space-y-2">
-                                <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl lg:text-5xl">
+                                <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl lg:text-3xl">
                                     Our Mission and Values
                                 </h2>
                                 <p className="max-w-[900px] text-gray-500 sm:text-base md:text-lg lg:text-xl dark:text-gray-400">

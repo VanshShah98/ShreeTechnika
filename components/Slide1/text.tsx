@@ -18,7 +18,7 @@ const Text: FC = () => {
           paragraph
           className="text-stone-500 pt-5 text-sm md:text-base lg:text-lg xl:text-xl animate-fade-in"
         >
-          Shree Technika specializes in delivering high-quality precision machining and fabrication services to industries across the globe.
+          Shree Technika specializes in delivering high-quality precision machining and fabrication services to Dariy, Pharma, Food, Breweries & Chemical industries across the globe.
         </Typography>
       </Box>
     </>

@@ -51,7 +51,7 @@ export default function ContactForm() {
   return (
     <Container maxWidth="lg" className="py-12 md:py-20" >
       <div className="space-y-6 text-center">
-        <Typography variant="h3" className="font-bold tracking-tighter">
+        <Typography variant="h4" className="font-bold tracking-tighter">
           Get in Touch
         </Typography>
         <Typography variant="body1" className="max-w-xl mx-auto text-gray-500 dark:text-gray-400 md:text-xl">
@@ -124,7 +124,9 @@ export default function ContactForm() {
                 <div className="flex items-center space-x-2">
                   <LocationOn className="text-gray-500 dark:text-gray-400" />
                   <Typography variant="body1" className="text-gray-500 dark:text-gray-400">
-                  SHREE TECHNIKA, RS No. 215, Block No. 85, ZIN, Opp. APMC, At. Jhagadia Bharuch, Gujarat,
+                  SHREE TECHNIKA, RS No. 215, Block No. 85, ZIN, Opp. APMC,    
+                  <br/>At. Jhagadia, Dist. Bharuch, Gujarat, INDIA
+                  <br/>Pin: 393110
                   </Typography>
                 </div>
 
@@ -147,7 +149,7 @@ export default function ContactForm() {
                 <IconButton className="text-black"  href="#" aria-label="Facebook">
                   <Facebook />
                 </IconButton>
-                <IconButton className="text-black" href="#" aria-label="Instagram">
+                <IconButton className="text-black" href="https://www.instagram.com/shreetechnika/" aria-label="Instagram">
                   <Instagram />
                 </IconButton>
                 <IconButton className="text-black"  href="#" aria-label="LinkedIn">
