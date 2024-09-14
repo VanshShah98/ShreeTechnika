@@ -10,7 +10,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         service: 'gmail',
         auth: {
           user: 'shreetechnika@gmail.com',
-          pass: 'shpz jzqw mymw cmtb', // Replace with your Gmail password
+          pass: '', // Replace with your Gmail password
         },
       });
 
